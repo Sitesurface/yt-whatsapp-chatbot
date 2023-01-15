@@ -9,7 +9,7 @@ async function getCompletionChatGPT(msg) {
     headers: {
       "openai-organization": "org-PaB4ld1VpvP0yEYsRB5ZhBOZ",
       authorization:
-        "Bearer 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",
+        "Bearer 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",
     },
     data: {
       model: "text-davinci-003",
